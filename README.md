@@ -1,2 +1,2 @@
-# Countrys_Scrapping
+# Countries_Scrapping
 Simple web-scraping and exploratory data analysis.
